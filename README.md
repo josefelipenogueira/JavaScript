@@ -1,2 +1,2 @@
 # JavaScript
- curso de ecma 7
+ Curso de ECMA SCRIPT 7 - Aprendendo sobre JavaScript

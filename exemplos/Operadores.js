@@ -12,7 +12,9 @@ typeof
 // Arrititéticos 
 // +(sum) -(sub)  *(mult) /(div)    % (resto) **(potencia) ++(incr) --(decre)
 
-// Ordem de precedência   ()   **   */%   +-
+// Ordem de precedência:   ()   **   */%   +-
 
+// ordem de precedência Lógicos: ! (nao) &&(e) ||(ou)
 
+//operador ternário   teste() ? True : false
 
